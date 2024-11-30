@@ -64,7 +64,7 @@ function sendMail(event) {
 
     var params = {
         name: document.getElementById("username").value,
-        number: document.getElementById("num").value,
+        number: document.getElementById("phone").value,
         email: document.getElementById("mail").value,
         message: document.getElementById("fullMessage").value,
     };
