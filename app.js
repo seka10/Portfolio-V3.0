@@ -12,7 +12,7 @@
     })
 })();
 
-const words = ["Sayed Ayman", "Front-End Developer", "Web Designer", "UI/UX Expert", "Software Engineer"];
+const words = ["Sayed Ayman", "FrontEnd Developer", "Web Designer", "UI/UX Expert", "Software Engineer","Junior IT Specialist"];
 let wordIndex = 0; // Index for the current word
 let charIndex = 0; // Index for the current character
 const textElement = document.getElementById("text");
